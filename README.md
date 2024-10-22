@@ -1,2 +1,4 @@
 # sitetest
-githubの勉強
+## 目的
+- githubの勉強
+- マークダウン記法の勉強
