@@ -1,3 +1,9 @@
-a{
+.pagename{
     color: red;
+}
+.list{
+    text-decoration: none;
+}
+body{
+    text-align: center;
 }
